@@ -1,7 +1,7 @@
 ========= Para enviar novo arquivo/pasta ou modificação =========
 1- Adicionar as modificações: 
     Para isso utilize o comando `git add <nome do arquivo ou pasta>`
-2- realizar o commit: 
+2- realizar o commit;esse é o passo: 
     para isso utilize o comando `git commit -m "informe aqui sua mensagem desejada"`
 3- envio o commit:
     para isso utilize o comando `git push origin <nome da branch a ser enviada>`
