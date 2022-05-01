@@ -1,4 +1,5 @@
 ========= Para enviar novo arquivo/pasta ou modificação =========
+0- Para procedimentos colaborativos sempre realizar a atualização antes do envio
 1- Adicionar as modificações: 
     Para isso utilize o comando `git add <nome do arquivo ou pasta>`
 2- realizar o commit: (esta linha deve gerar conflito) 
